@@ -4,7 +4,9 @@
   <a href="https://github.com/j4ngx"><img src="https://github-readme-stats.vercel.app/api?username=j4ngx&show_icons=true&theme=gruvbox&include_all_commits=true&bg_color=0000" alt="j4ngx's github stats"></a>
 </p>
 
-
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=j4ngx&hide=javascript,html&exclude_repo=config_files&theme=gruvbox" alt="j4ngx's most used languages"></a>
+</p>
 <!--
 **j4ngx/j4ngx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
