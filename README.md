@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/j4ngx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4ngx&hide=javascript,scss,dockerfile,css,html&exclude_repo=config_files&&theme=gruvbox&bg_color=0000" alt="j4ngx's most used languages"></a>
+  <a href="https://github.com/j4ngx?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4ngx&hide=javascript,scss,dockerfile,css,html&exclude_repo=config_files&&theme=gruvbox&bg_color=0000" alt="j4ngx's most used languages"></a>
 </p>
