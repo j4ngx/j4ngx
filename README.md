@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=j4ngx&hide=javascript,html&exclude_repo=config_files&theme=gruvbox" alt="j4ngx's most used languages"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=j4ngx&hide=javascript,html&exclude_repo=config_files" alt="j4ngx's most used languages"></a>
 </p>
 <!--
 **j4ngx/j4ngx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
