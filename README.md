@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi my name is Jose and this is my github account
+
+![j4ngx stadistic](https://github-readme-stats.vercel.app/api?username=j4ngx&show_icons=true&theme=gruvbox&include_all_commits=true)
 
 <!--
 **j4ngx/j4ngx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
